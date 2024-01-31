@@ -1692,6 +1692,9 @@ p{
     .stud-success{
         flex-direction: column;
     }
+    #greenbtn h1{
+        font-size: 18px !important;
+    }
 
     .success-cards iframe{
         width: 85vw;
